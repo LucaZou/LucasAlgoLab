@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp",
+        "algorithm": "cpp",
+        "ios": "cpp"
+    },
+    
+}
